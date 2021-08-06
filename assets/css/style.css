@@ -191,12 +191,12 @@ section {
     overflow: auto;
 }
 
-.tariner img {
+.trainer img {
     width: 35%;
     float: left;
 }
 
-.tariner-bio {
+.trainer-bio {
     padding: 35px;
     float: left;
     width: 65%;
