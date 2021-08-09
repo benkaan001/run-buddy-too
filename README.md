@@ -13,3 +13,5 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ Ben Kaan
+
+### ©️2019 Run Buddy, Inc
