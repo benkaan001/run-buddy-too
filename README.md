@@ -12,6 +12,6 @@ A website that offers fitness training services.
 https://lernantino.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ Ben Kaan
+Made with ❤️ by Ben Kaan
 
 ### ©️2019 Run Buddy, Inc
